@@ -1,2 +1,7 @@
-## Hi there. I'm An 👋
-Welcome to my GitHub profile! I'm a student with a strong interest in engineering, programming, and technology, especially embedded systems and numerical methods. I enjoy learning by building projects and solving real technical problems.
+## Hi there, I'm An 👋
+
+Welcome to my GitHub profile!
+
+I'm an Electrical and Electronics Engineering student with a strong interest in Digital IC Design, FPGA Development, and Hardware Description Languages (HDLs), especially Verilog.
+
+I enjoy learning by designing digital circuits, writing Verilog modules, developing FPGA projects, and exploring computer architecture and embedded systems.
